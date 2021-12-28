@@ -1,4 +1,4 @@
-#include <philanatoken/philanatoken.hpp>
+#include <philanatoken.hpp>
 
 namespace eosio {
 
